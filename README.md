@@ -8,3 +8,4 @@ Create a random 100 x 100 array, sort the odd rows in decsending order and even 
 -Don't use built-in functions
 -Use one sorting algorithm based on brute-force strategy to sort the whole array and test the running time for 10 instances of random arrays.
 -Use another sorting algorithm with different complexity from the previous one to sort the whole array and test the running time for 10 instances of random arrays.
+-Increase reasonably the problem size (i.e. use random arrays with 500x500 dimensions) and compare the running times. Are the results the expected ones? 
